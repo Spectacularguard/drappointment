@@ -23,5 +23,5 @@ A full-stack web application for booking and managing doctor appointments, built
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/doctor-appointment-app.git
-cd doctor-appointment-app
+git clone https://github.com/Spectacularguard/drappointment
+cd drappointment 
